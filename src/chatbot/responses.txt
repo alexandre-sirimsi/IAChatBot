@@ -1,0 +1,16 @@
+hello - Hi there! How are you?
+hola - Hi there! How are you?
+how are you? - Fine and you?
+good - That's good to hear!
+what is your name? - My name is ChatBot
+what do you mean? - Nothing you?
+are you a robot? - No i am not a robot and you?
+I am a Student - Wich domain?
+In nursing care - OMG ! It's very nice!
+In IT Development - OMG ! It's very nice!
+In software Development - OMG ! It's very nice!
+help - Enter input into the console and receive a response.
+bye - Goodbye!
+ciao - Goodbye!
+bye bye - Goodbye!
+see you - Goodbye!
